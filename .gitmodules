@@ -1,0 +1,3 @@
+[submodule "recip_viewer"]
+	path = recip_viewer
+	url = https://github.com/AlexeyKoz/recip_viewer
